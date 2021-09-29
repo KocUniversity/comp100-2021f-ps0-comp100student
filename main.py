@@ -1,1 +1,1 @@
-print("Comp100 is fun")
+print("Comp100 is fun!!")
